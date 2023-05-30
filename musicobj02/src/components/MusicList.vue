@@ -39,7 +39,7 @@ export default{
                 res = res.toFixed(2) + "亿";    //toFixed(2)截取小数点后两位
             }else if(num >= 10000){
                 res = num/10000;
-                res = res.toFixed(2); + "万";
+                res = res.toFixed(2) + "万";
             }else{
                 res = num;
             }
