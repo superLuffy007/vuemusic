@@ -27,6 +27,7 @@ export default{
                 {pic:require("../assets/logo.png")},
                 {pic:require("../assets/logo.png")},
                 {pic:require("../assets/logo.png")},
+                {pic:require("../assets/logo.png")},
                 {pic:require("../assets/logo.png")}
             ]
         }
